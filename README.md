@@ -1,8 +1,11 @@
+<!-- This is the markdown template for the final project of the Building AI course, 
+created by Reaktor Innovations and University of Helsinki. 
+Copy the template, paste it to your GitHub README and edit! -->
+
 # Image_Recognition
-Final project for the Building AI course.
 
 ## Summary
-Build an image recognition model that can classify images into different categories. Starting with a small dataset of images and use machine learning algorithms like K-nearest neighbors or Decision Trees.
+Build an image recognition model that can classify images into different categories. Starting with a small dataset of images and use machine learning algorithms like K-nearest neighbors or Decision Trees. This is the Building AI course project
 
 ## Background
 Image recognition is a common application of artificial intelligence that involves training a machine learning model to recognize images and classify them into different categories. One possible example would be to train a model to recognize different types of animals, such as cats, dogs, and birds.
