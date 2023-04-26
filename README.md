@@ -2,7 +2,7 @@
 
 Final project for the Building AI course.
 
-##  Summary
+## Summary
 
 Build an image recognition model that can classify images into different categories. Starting with a small dataset of images and use machine learning algorithms like K-nearest neighbors or Decision Trees.
 
